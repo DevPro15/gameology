@@ -16,18 +16,17 @@ body {
   --font-robert-medium: "robert-medium", "sanf-serif";
   --font-robert-regular: "robert-regular", "sanf-serif";
   /* @color Theme */
-  --color-blue-50: "#DFDFF0";
-  --color-blue-75: "#DFDFF2";
-  --color-blue-100: "#F0F2FA";
-  --color-blue-200: "#010101";
-  --color-blue-300: "#4FB7DD";
+  --color-blue-50: #dfdff0;
+  --color-blue-75: #dfdff2;
+  --color-blue-100: #f0f2fa;
+  --color-blue-200: #010101;
+  --color-blue-300: #4fb7dd;
 
-  --color-violet-300: "#5724FF";
+  --color-violet-300: #5724ff;
 
-  --color-yellow-100: "#8E983F";
-  --color-yellow-300: "#8E983F";
+  --color-yellow-100: #8e983f;
+  --color-yellow-300: #8e983f;
 }
-
 @layer base {
   @font-face {
     font-family: "circular-web";
